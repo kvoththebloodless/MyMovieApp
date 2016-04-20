@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="Spinner_choice">
+
+        <item>Popular</item>
+        <item>Highest Rated</item>
+
+    </string-array>
+    <string-array name="IndividualHeader">
+        <item>Title: </item>
+        <item>Release Date: </item>
+        <item>Rating: </item>
+        <item>Synopsis: </item>
+        <item >Trailers: </item>
+        <item >Reviews: </item>
+    </string-array>
+</resources>

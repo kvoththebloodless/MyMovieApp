@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyMovieApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_favorites">Favorites</string>
+    <string name="title_activity_favourite_detail">Favourite_detail</string>
+    <string name="title_sdfg_list">sdfgs</string>
+    <string name="title_sdfg_detail">sdfg Detail</string>
+
+
+</resources>
