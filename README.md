@@ -1,9 +1,6 @@
 # MyMovieApp
 
-This application provides the user with the list of the top 20 popular and top rated movies.
-The user can check out the different motion pictures and mark the ones they like as favourite-to be
-viewed later. The application also provides the user with the ability to share the top trailer on the 
-platform of his choice.
+Built an app, optimized for tablets, to help users discover popular and highly rated movies on the web. It displays a scrolling grid of movie trailers, launches a details screen whenever a particular movie is selected, allows users to save favorites, play trailers, and read user reviews. This app utilizes core Android user interface components and fetches movie information using themoviedb.org web API.
 
 The application provides Tablet support in the form of master-detail layout upon orientation change to landscape.
 
