@@ -22,7 +22,7 @@ The api key is to be input into the API_KEY variable in the Global class in the 
 
 - Movie Details layout contains a section for displaying trailer videos and user reviews.
 
-###User Interface - Function
+### User Interface - Function
 
 - When a user changes the sort criteria (most popular, highest rated, and favorites) the main view gets updated correctly.
 
@@ -32,7 +32,7 @@ The api key is to be input into the API_KEY variable in the Global class in the 
 
 - In the movies detail screen, a user can tap a button(for example, a star) to mark it as a Favorite.
 
-###Network API Implementation
+### Network API Implementation
 
 - In a background thread, app queries the /movie/popular or /movie/top_rated API for the sort criteria specified in the settings menu.
 
@@ -40,7 +40,7 @@ The api key is to be input into the API_KEY variable in the Global class in the 
 
 - App requests for user reviews for a selected movie via the /movie/{id}/reviews endpoint in a background thread and displays those       details when the user selects a movie.
 
-###Data Persistence
+### Data Persistence
 
 - App saves a "Favorited" movie to SharedPreferences or a database using the movie’s id.
 
