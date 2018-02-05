@@ -4,7 +4,7 @@ Built an app, optimized for tablets, to help users discover popular and highly r
 
 The application provides Tablet support in the form of master-detail layout upon orientation change to landscape.
 
-##Where to put the API key?
+## Where to put the API key?
 
 The api key is to be input into the API_KEY variable in the Global class in the misc directory.
 
